@@ -16,7 +16,7 @@ const users = [
     username: "궁금",
     company: "",
     position: "",
-    img: "img/user/CuriosityGG.jpg",
+    img: "img/user/profile-CuriosityGG.jpg",
   },
 ];
 
